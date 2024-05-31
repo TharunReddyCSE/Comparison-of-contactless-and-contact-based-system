@@ -19,11 +19,11 @@ Fingerprint recognition is a pivotal component of biometric identification syste
 
 ### Team Member
 
+- [Dr. Ajith Padyana](https://www.linkedin.com/in/drajithpadyana/) PROJECT GUIDE
 - [Tharun Reddy R](https://www.linkedin.com/in/tharunreddy14/)
 - [Charan N](https://www.linkedin.com/in/charan-n-b4040a1a3/)
 - [Yeshwanth C](https://www.linkedin.com/in/yeshwanth-c-b760a2203/)
 - [Krishang Gowda](https://www.linkedin.com/in/krishang-gowda-199263255/)
-- [Dr. Ajith Padyana](https://www.linkedin.com/in/drajithpadyana/) PROJECT GUIDE
 
 ### References
 
